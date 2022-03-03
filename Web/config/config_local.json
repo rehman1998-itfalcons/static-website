@@ -1,5 +1,5 @@
 {
     "host": "demos.workerman.net",
-    "port": 8080,
+    "port": 8000,
     "dispatcher": false
 }
