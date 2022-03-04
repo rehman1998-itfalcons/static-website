@@ -1,5 +1,5 @@
 {
-    "host": "127.0.0.1",
+    "host": "https://static-website-service-zuunx.ondigitalocean.app/",
     "port": 8000,
     "dispatcher": false
 }
